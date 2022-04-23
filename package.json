@@ -1,6 +1,6 @@
 {
   "name": "extra-console",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Console is a global object used for interacting with terminal and IO streams.",
   "main": "index.js",
   "module": "index.mjs",

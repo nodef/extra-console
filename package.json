@@ -1,0 +1,23 @@
+{
+  "name": "extra-console",
+  "version": "0.0.1",
+  "description": "Console is a global object used for interacting with terminal and IO streams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-console.git"
+  },
+  "keywords": [
+    "extra",
+    "console"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/extra-console/issues"
+  },
+  "homepage": "https://github.com/nodef/extra-console#readme"
+}
